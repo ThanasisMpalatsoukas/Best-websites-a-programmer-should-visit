@@ -766,6 +766,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [CSS Tricks](https://css-tricks.com/) : about building websites and all that entails, mostly from a front-end perspective
 - [Daedtech.com](https://www.daedtech.com) : Stories about software
 - [Dan Dreams of Coding](https://dandreamsofcoding.com)
+- [dev.to](https://dev.to/) : Online programming community for sharing and discovering great ideas
 - [Daniel Lemire's Blog](https://lemire.me/blog/) : Daniel Lemire's blog
 - [Eli Bendersky](http://eli.thegreenplace.net) : everything from Python to LLVM
 - [Geek Land](https://avidullu.wordpress.com) : My precious collectibles
